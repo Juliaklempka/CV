@@ -26,6 +26,23 @@ body {
 	background-color: #e9e9fb;
 }
 
+.german-color {
+	background-color: rgb(166, 253, 207);
+}
+
+.english-color {
+	background-color: rgb(161, 224, 253);
+}
+
+.polish-color {
+	background-color: rgb(253, 224, 170);
+}
+
+.language-border {
+	border-color: #9e9d9e !important;
+}
+
+
 /* Styles for lists in the document */
 
 .biography-details li::before, .skill-list li::before {
@@ -49,4 +66,8 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+
+.skill-list li::before {
+	color: #bb208c;
 }
