@@ -23,8 +23,8 @@ html {
 
 body {
 	font-family: "Erode", serif;
-	background-color: #ffffff;
-	color: #000020;
+	background-color: #f8b7b7;
+	color: #06061a;
 	font-size: clamp(16px, 1.5vw, 20px);
 	line-height: 1.1;
 	height: 100%;
@@ -75,7 +75,7 @@ footer {
 	display: flex;
 	flex-flow: column;
 	background-color: #301010;
-	color: #f0f0f0;
+	color: #7e1d4b;
 	height: 100%;
 	background-image: linear-gradient(to bottom, rgba(255, 255, 255, .1), transparent);
 }
